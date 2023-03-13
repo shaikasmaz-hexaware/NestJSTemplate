@@ -1,14 +1,14 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: create-NestJS-template
-  title: Create NestJS App Template
-  description: Create a new CRA website project
+  name: create-NestJS-Application
+  title: Create NestJS Application
+  description: Create a new Nest JS Application
   tags:
     - react
     - cra
 spec:
-  owner: web@example.com
+  owner: www.shaikasmaz-hexaware.com
   type: website
   parameters:
     - title: Provide some simple information

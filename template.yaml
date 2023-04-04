@@ -5,7 +5,7 @@ metadata:
   title: Create NestJS Application
   description: Create a new Nest JS Application
   tags:
-    - react
+    - Nest Js
     - cra
 spec:
   owner: www.shaikasmaz-hexaware.com
